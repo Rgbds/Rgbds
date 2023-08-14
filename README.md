@@ -14,6 +14,7 @@ Atualmente Estudo em : Serviço Nacional de Aprendizagem Comercial (Senac-Goiás
   
   -> JavaScript (front and back)
    -> PostgreSQL (DBA)
+   -> Node.js (front and back)
 
  Contatos :
 
