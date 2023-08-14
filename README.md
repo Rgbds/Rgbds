@@ -13,9 +13,15 @@ Atualmente Estudo em : Serviço Nacional de Aprendizagem Comercial (Senac-Goiás
   2- Atualmente Trabalhando com :
   
   -> JavaScript (front and back)
-   -> PostgreSQL (DBA)
-   -> Node.js (front and back)
+  -> PostgreSQL (DBA)
+  -> Node.js (front and back)
 
+  3- Aprendendo atualmente: 
+  -> Java
+  -> HTML
+  -> Css
+  -> C#
+  
  Contatos :
 
   -> Telefone: 62 9 99330-1134 (WhatsApp)
