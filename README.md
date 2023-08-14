@@ -7,8 +7,8 @@ Atualmente Estudo em : Serviço Nacional de Aprendizagem Comercial (Senac-Goiás
   -> Porgramação  back-end 
 
   1-Cursos:
-  -> Programador de Sistemas (Em Andamento💤)
-   -> Admnistrador de Banco de dados (Em Andamento💤)
+  -> Programador de Sistemas (Em Andamento)
+   -> Admnistrador de Banco de dados (Em Andamento)
 
   2- Atualmente Trabalhando com :
   
