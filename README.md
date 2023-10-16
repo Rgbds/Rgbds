@@ -1,15 +1,17 @@
 Olá,sou Ruan Guilherme Barbosa da Silva
 
-Atualmente Estudo em : Serviço Nacional de Aprendizagem Comercial (Senac-Goiás). UNIP - Campus Flamboyant
+Atualmente Estudo em : Serviço Nacional de Aprendizagem Comercial (Senac-Goiás). 
+UNIP - Campus Flamboyant
 
   1-Formado academicamente em:
   
   -> Porgramação  back-end 
 
   1-Cursos:
-  -> Programador de Sistemas (Em Andamento)
-   -> Admnistrador de Banco de dados (Em Andamento)
-
+  -> Programador de Sistemas (Finalizado)
+  -> Admnistrador de Banco de dados (Em Andamento)
+  -> Analise e Desenvolvimento de Sistemas (Em Andamento)
+  
   2- Atualmente Trabalhando com :
   
   -> JavaScript (front and back)
