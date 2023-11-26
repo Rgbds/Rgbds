@@ -9,7 +9,6 @@ UNIP - Campus Flamboyant
 
   1-Cursos:
   -> Programador de Sistemas (Finalizado)
-  -> Admnistrador de Banco de dados (Em Andamento)
   -> Analise e Desenvolvimento de Sistemas (Em Andamento)
   
   2- Atualmente Trabalhando com :
